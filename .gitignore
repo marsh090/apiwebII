@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Prisma
+prisma/.env
+
+# TypeScript
+*.tsbuildinfo
+dist/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.sublime-project
+*.sublime-workspace
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
